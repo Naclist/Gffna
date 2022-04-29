@@ -14,7 +14,7 @@ Required, standard gff file (Example: downloaded from NCBI) was recommanded. It 
 Required, your fna and gff files should be matched (gff should be annotated according to this fna) to ensure consistency of seqid.
 
 (--output)
-I should have set a output here but I was lazy that night.
+I should had set an output here but I was lazy that night.
 
 --type
 Optional, you can specify a type of gene to look for: CDS, tRNA, gene, exon .... Default: CDS.
